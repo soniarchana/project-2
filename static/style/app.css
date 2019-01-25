@@ -1,0 +1,145 @@
+body,
+html {
+  height: 100%;
+}
+
+body {
+	background-color: white
+}
+
+.container-fluid {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.margin-bottom-20 {
+	margin-bottom: 30px;
+}
+
+.border-gray {
+	border: 1px solid gray;
+}
+
+.row {
+	overflow: auto;
+}
+
+.navbar-fixed-top {
+	overflow: auto;
+}
+
+/*#title-area {
+	background-color: rgb(226, 140, 11);
+}*/
+
+#title-area {
+	padding-bottom: 16px;
+	margin-left: 100px;
+	margin-right: 100px;
+	border: 1px solid red;
+	background-color: rgb(226, 140, 11);
+}
+
+.chart-area {
+	margin-top: 230px;
+	position: relative;
+	clear: left;
+}
+
+div#top-bar {
+	margin-left: 100px;
+	margin-right: 100px;
+	border: 1px solid gray;
+}
+
+#country-metadata {
+	margin-top: 36px;
+	background-color: #0079B8;
+	color: #fff;
+}
+
+#selYear {
+	display: block;
+	width: 105px;
+	background-color:rgb(226, 140, 11);
+}
+
+#selCountry {
+	display: block;
+	width: 105px;
+	background-color:rgb(226, 140, 11);
+}
+
+.world-info {
+	font-weight: bold;
+	margin-left: 15px;
+	margin-right: 5px;
+}
+
+.footer {
+	padding-top: 10px;
+	background-color: rgb(226, 140, 11);
+}
+
+#chart-area2, #chart-area3 {
+	padding-top: 10px;
+	height: 580px;
+	max-height: 580px;
+} 
+
+#chart-area3 {
+	padding-top: 20px;
+}
+
+#top-ten, #growth-rate {
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+#map-area {
+	height: 100%;
+}
+
+#map {
+	height: 500px;
+}
+
+#population-map {
+	text-align: center;
+}
+
+
+#red {
+	color: red;
+}
+
+#orange {
+	color: orange;
+}
+
+#pink {
+	color: pink;
+}
+
+#purple {
+	color: purple;
+}
+
+#green {
+	color: green;
+}
+
+#lightgreen {
+	color: lightgreen;
+}
+
+#blue {
+	color: blue;
+}
+
